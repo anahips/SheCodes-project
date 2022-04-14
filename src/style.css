@@ -48,3 +48,9 @@ body {
 button {
   margin: 10px 0;
 }
+
+.gitHubLink {
+  font-size: 10px;
+  text-align: center;
+  margin: 10px 0;
+}
